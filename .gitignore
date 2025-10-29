@@ -24,6 +24,7 @@ ENV/
 env.bak/
 *.env
 
+
 # Arquivos de configuração e cache
 *.log
 *.sqlite3
@@ -51,3 +52,5 @@ coverage.xml
 *.egg-info/
 dist/
 build/
+# Arquivos de texto
+*.txt
